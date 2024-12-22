@@ -20,7 +20,6 @@ public class TiendaController {
                     new Tienda(1, "Supermercado"),
                     new Tienda(2, "Tienda de Electrónica"),
                     new Tienda(3, "Boutique de Ropa"),
-                    new Tienda(4, "Tienda de Electrónica"),
                     new Tienda(5,"Libreria"),
                     new Tienda(6,"Jardineria"),
                     new Tienda(7,"Papeleria")
